@@ -1,0 +1,143 @@
+subject,gender,trial_1,trial_2
+1,male,yes,yes
+2,male,no ,no 
+3,male,no ,no 
+4,male,no ,no 
+5,male,yes,yes
+6,male,yes,yes
+7,male,no ,no 
+8,male,yes,yes
+9,male,no ,no 
+10,male,no ,no 
+11,male ,no ,no 
+12,male ,no ,no 
+13,male ,no ,no 
+14,male ,no ,no 
+15,male ,no ,no 
+16,female,yes,yes
+17,male ,no ,no 
+18,male ,no ,no 
+19,male ,no ,no 
+20,male ,no ,no 
+21,female,yes,yes
+22,female,no ,no 
+23,male ,no ,no 
+24,male ,no ,no 
+25,male ,no ,no 
+26,male ,no ,no 
+27,male ,no ,no 
+28,male ,yes,yes
+29,female,no ,no 
+30,female,yes,yes
+31,female,no ,no 
+32,male,no ,no 
+33,female,no ,no 
+34,male,no ,no 
+35,male,yes,yes
+36,female,no ,yes
+37,female,yes,yes
+38,female,no ,no 
+39,male,no ,no 
+40,male,no ,no 
+41,female,yes,yes
+42,male,no ,no 
+43,female,no ,no 
+44,male,yes,yes
+45,female,yes,yes
+46,male,no ,no 
+47,female,yes,yes
+48,female,no ,no 
+49,female,no ,no 
+50,female,no ,no 
+51,male,yes,yes
+52,female,no ,no 
+53,female,yes,yes
+54,female,yes,yes
+55,male,no ,no 
+56,female,yes,yes
+57,male,yes,yes
+58,female,no ,no 
+59,female,yes,yes
+60,female,no ,no 
+61,female,no ,no 
+62,male,no ,no 
+63,male,no ,no 
+64,female,no ,no 
+65,male,yes,yes
+66,female,no ,no 
+67,male,no ,no 
+68,male,yes,yes
+69,female,no ,no 
+70,female,no ,no 
+71,female,yes,yes
+72,male,yes,yes
+73,female,no ,no 
+74,male,no ,no 
+75,female,no ,no 
+76,male,yes,yes
+77,male,no ,no 
+78,female,yes,no 
+79,female,no ,no 
+80,female,no ,no 
+81,male,yes,yes
+82,female,no ,no 
+83,female,no ,yes
+84,male,yes,yes
+85,female,yes,yes
+86,female,yes,no 
+87,male,no ,no 
+88,male,no ,no 
+89,female,no ,no 
+90,male,no ,yes
+91,male,yes,yes
+92,female,no ,no 
+93,female,yes,no 
+94,female,yes,yes
+95,female,yes,yes
+96,female,no ,no 
+97,male,no ,no 
+98,male,yes,yes
+99,female,yes,yes
+100,male,no ,no 
+101,male,no ,no 
+102,male,yes,yes
+103,female,no ,no 
+104,female,no ,no 
+105,female,no ,no 
+106,male,yes,yes
+107,female,no ,no 
+108,male,no ,no 
+109,female,no ,no 
+110,male,no ,no 
+111,female,no ,no 
+112,female,no ,no 
+113,male,no ,no 
+114,female,no ,no 
+115,female,no ,no 
+116,female,no ,no 
+117,male,yes,yes
+118,male,yes,yes
+119,female,no ,no 
+120,male,no ,no 
+121,female,no ,no 
+122,male,no ,no 
+123,male,no ,no 
+124,male,no ,no 
+125,female,yes,yes
+126,male,no ,no 
+127,female,no ,no 
+128,female,no ,no 
+129,male,yes,yes
+130,male,no ,no 
+131,male,yes,yes
+132,male,no ,no 
+133,male,no ,no 
+134,female,no ,no 
+135,female,no ,no 
+136,female,no ,no 
+137,male,yes,yes
+138,female,yes,yes
+139,female,yes,yes
+140,male,no ,no 
+141,female,no ,no 
+142,female,no ,no 
